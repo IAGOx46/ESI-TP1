@@ -19,7 +19,7 @@
 |  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
 |  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
 
-# Índice
+# Índice (Sumário)
 # 1. Introdução
 * 1.1 Objeto
 * 1.2 Motivação, Justificativa e Oportunidade
