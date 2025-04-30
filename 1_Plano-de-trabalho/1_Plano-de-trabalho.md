@@ -8,16 +8,16 @@
 | Coordenador do Projeto: | Prof. Dr. Andrey Rodrigues           |
 
 # Histórico de versões
-| Versão |         Descrição        |         Autor               |    Data    |
-| :---:  |            ---           |          ---                |   :---:    |
-| 1.0    | Planejamento e pesquisa  |  Iago Vinicius F. do Amaral | 22/04/2025 |
-|  xxxx  |         xxxxxxxxxxxx     |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx     |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx     |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx     |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx     |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx     |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx     |                xxxxxxxxx    |   xxxxxx   |
+| Versão |         Descrição           |         Autor               |    Data    |
+| :---:  |            ---              |          ---                |   :---:    |
+| 1.0    | Planejamento e pesquisa     |  Iago Vinicius F. do Amaral | 22/04/2025 |
+| 1.1    | Elaboração Plano de Trabalho|  Iago Vinicius F. do Amaral | 23/04/2025 |
+|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
 
 # Índice
 # 1. Introdução
