@@ -4,7 +4,7 @@
 | ----------------------- | ------------------------------------ |
 | Versão:                 | **1.0**                              |
 | Status:                 | **Em desenvolvimento**               |
-| Executor Principal:     | Lucas Castro do Anjos                |
+| Executor Principal:     | Discente: Lucas Castro do Anjos      |
 | Coordenador do Projeto: | Prof. Dr. Andrey Rodrigues           |
 
 # Histórico de versões
