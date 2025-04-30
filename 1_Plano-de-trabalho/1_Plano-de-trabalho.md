@@ -24,7 +24,7 @@
 
 # Índice
 # 1. Introdução
-* 1.1 Objetivo
+* 1.1 Objeto
 * 1.2 Motivação, Justificativa e Oportunidade
 * 1.3 Caracterização do projeto
 * 1.3.1 Integração com outros sistemas
