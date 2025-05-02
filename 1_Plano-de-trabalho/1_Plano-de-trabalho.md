@@ -22,8 +22,21 @@
 # Índice (Sumário)
 # 1. Introdução
 * 1.1 Objeto
+
+  Este documento apresenta o planejamento do sistema XXXXXX, descrevendo os elementos fundamentais para o desenvolvimento do aplicativo de monitoramento climático, incluindo seu propósito principal, funcionalidades essenciais, requisitos técnicos e estrutura organizacional do projeto. O objetivo é estabelecer as bases para a construção de uma solução completa e eficiente de previsão meteorológica e alertas ambientais.
+  
 * 1.2 Motivação, Justificativa e Oportunidade
+
+  A crescente instabilidade climática tem aumentado a necessidade de informações meteorológicas precisas e acessíveis. Este aplicativo visa solucionar problemas como a falta de alertas 
+tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis, beneficiando agricultores, gestores públicos e a população em geral. A oportunidade se reforça pela  demanda por soluções digitais em meteorologia e pelo potencial de integrar dados de diversas fontes em uma plataforma única e intuitiva.
 * 1.3 Caracterização do projeto
+
+  O projeto se enquadra como um aplicativo móvel multiplataforma (Android/iOS) com componente web complementar, classificado como software comercial de utilidade pública. Desenvolvido como solução nova com integração a sistemas meteorológicos existentes, possui dupla finalidade:
+
+1. Aplicação prática: Fornecer alertas e dados climáticos confiáveis para usuários finais
+2. Base tecnológica: Servir como plataforma para pesquisa aplicada em meteorologia digital
+
+  
 * 1.3.1 Classe
 * 1.3.2 Enquadrabilidade
 * 1.3.3 Tipo
