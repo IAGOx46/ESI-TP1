@@ -51,9 +51,10 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 
 * 1.3.3 Tipo
 
-|            Tipo             |                            Detalhamento                               |
-| ----------------------------|---------------------------------------------------------------------- |
-| Desenvolvimento de Software | Criação de um novo sistema integrado com APIs meteorológicas oficiais |
+|            Tipo             |                                      Detalhamento                                           |
+| ----------------------------|-------------------------------------------------------------------------------------------- |
+| Desenvolvimento de Software |           Criação de um novo sistema integrado com APIs meteorológicas oficiais.            |
+|     Trabalho Acadêmico      |  O desenvolvimento será realizado no contexto de uma disciplina de Engenharia de Software.  | 
 
 # 2. Informações Gerais
 * 2.1 Escopo Geral
