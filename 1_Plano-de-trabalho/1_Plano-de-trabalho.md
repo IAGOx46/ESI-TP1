@@ -38,8 +38,23 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 
   
 * 1.3.1 Classe
+  
+|      Classe      |                              Detalhamento                                       |
+| -----------------| ------------------------------------------------------------------------------- |
+| Aplicativo Móvel | Solução multiplataforma (Android/iOS) para monitoramento climático em tempo real|
+
 * 1.3.2 Enquadrabilidade
+   
+|       Enquadrabilidade        |                                   Detalhamento                                        |
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| Software de Utilidade Pública | Aplicação voltada para prevenção de riscos ambientais e apoio a atividades econômicas |
+
 * 1.3.3 Tipo
+
+|            Tipo             |                            Detalhamento                               |
+| ----------------------------|---------------------------------------------------------------------- |
+| Desenvolvimento de Software | Criação de um novo sistema integrado com APIs meteorológicas oficiais |
+
 # 2. Informações Gerais
 * 2.1 Escopo Geral
 * 2.1.1 Escopo Específico
