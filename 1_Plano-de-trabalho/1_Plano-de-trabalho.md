@@ -12,7 +12,7 @@
 | :---:  |            ---              |          ---                |   :---:    |
 | 1.0    | Planejamento e pesquisa     |  Iago Vinicius F. do Amaral | 22/04/2025 |
 | 1.1    | Elaboração Plano de Trabalho|  Iago Vinicius F. do Amaral | 23/04/2025 |
-|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
+| 1.2    | Elaboração da Introdução    |  Iago Vinicius F. do Amaral | 02/05/2025 |
 |  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
 |  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
 |  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
@@ -61,7 +61,6 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 * 2.1.1 Escopo Específico
 * 2.1.2 Escopo Negativo
 * 2.2 Ambiente de Desenvolvimento
-### Ferramentas e Tecnologias
 * 2.3 Características Inovadoras do Projeto
 * 2.4 Resultados Esperados
 # 3. Metodologia do Projeto
