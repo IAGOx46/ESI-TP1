@@ -31,7 +31,7 @@
 tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis, beneficiando agricultores, gestores públicos e a população em geral. A oportunidade se reforça pela  demanda por soluções digitais em meteorologia e pelo potencial de integrar dados de diversas fontes em uma plataforma única e intuitiva.
 * 1.3 Caracterização do projeto
 
-  O projeto se enquadra como um aplicativo móvel multiplataforma (Android/iOS) com componente web complementar, classificado como software comercial de utilidade pública. Desenvolvido como solução nova com integração a sistemas meteorológicos existentes, possui dupla finalidade:
+  O projeto se enquadra como um aplicativo móvel multiplataforma (Android/iOS), classificado como software comercial de utilidade pública. Desenvolvido como solução nova com integração a sistemas meteorológicos existentes, possui dupla finalidade:
 
   * Aplicação prática: Fornecer alertas e dados climáticos confiáveis para usuários finais
   * Base tecnológica: Servir como plataforma para pesquisa aplicada em meteorologia digital
