@@ -64,18 +64,32 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
   
 * 2.1.1 Escopo Específico
 
-1. Alertar sobre possíveis tempestades na região.
-
-2. Atualização sobre o nível dos rios.
-
-3. Informar sobre a qualidade do Ar 
-
-4. Informar sobre o Clima em tempo real.
-
-5. Oferecer dados personalizados sobre o clima com base nas suas atividades locais. 
+  * Alertar sobre possíveis tempestades na região.
+  
+  * Atualização sobre o nível dos rios.
+  
+  * Informar sobre a qualidade do Ar 
+  
+  * Informar sobre o Clima em tempo real.
+  
+  * Oferecer dados personalizados sobre o clima com base nas suas atividades locais. 
 
 * 2.1.2 Escopo Negativo
+
+  * O software não incluirá uma versão WEB, será apenas um aplicativo móvel.
+  * Não será implementada uma inteligência artificial para análise de dados climáticos.
+  * O aplicativo móvel não funcionará OFFLINE.
+ 
 * 2.2 Ambiente de Desenvolvimento
+
+| Componente               | Tecnologia/Ferramenta           |
+| ----------------------   | ------------------------------- |
+| Metodologia              |  Scrum com sprints              |
+| Gerenciamento de Backlog |  GitHub                         |
+| Repositório de Código    |  GitHub                         |
+| Modelagem de Software    |  Astah UML/ Draw.io (diagramas) |
+| Desenvolvimento do MVP   |  Figma                          |
+
 * 2.3 Características Inovadoras do Projeto
 * 2.4 Resultados Esperados
 # 3. Metodologia do Projeto
