@@ -8,16 +8,16 @@
 | Coordenador do Projeto: | Prof. Dr. Andrey Rodrigues           |
 
 # Histórico de versões
-| Versão |         Descrição                 |         Autor               |    Data    |
-| -----  |---------------------------------- | --------------------------- | ---------- |
-|  1.0   | Planejamento e pesquisa           |  Iago Vinicius F. do Amaral | 22/04/2025 |
-|  1.1   | Elaboração Plano de Trabalho      |  Iago Vinicius F. do Amaral | 23/04/2025 |
-|  1.2   | Elaboração da Introdução          |  Iago Vinicius F. do Amaral | 02/05/2025 |
-|  1.3   | Elaboração das informações Gerais |  Iago Vinicius F. do Amaral | 03/05/2025 |
-|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
+| Versão |         Descrição                    |         Autor               |    Data    |
+| -----  |------------------------------------- | --------------------------- | ---------- |
+|  1.0   | Planejamento e pesquisa              |  Iago Vinicius F. do Amaral | 22/04/2025 |
+|  1.1   | Elaboração Plano de Trabalho         |  Iago Vinicius F. do Amaral | 23/04/2025 |
+|  1.2   | Elaboração da Introdução             |  Iago Vinicius F. do Amaral | 02/05/2025 |
+|  1.3   | Elaboração das informações Gerais    |  Iago Vinicius F. do Amaral | 03/05/2025 |
+|  1.4   | Elaboração da metodologia do projeto |  Iago Vinicius F. do Amaral | 03/05/2025 |
+|  xxxx  |         xxxxxxxxxxxx                 |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx                 |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx                 |                xxxxxxxxx    |   xxxxxx   |
 
 # Índice (Sumário)
 # 1. Introdução
@@ -106,7 +106,59 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 
 # 3. Metodologia do Projeto
 * 3.1 Estrutura do Projeto
+
+  XXXXXXXXXXXX
+  
 * 3.2 Equipe de projeto: papéis e responsabilidades
+
+  XXXXXXXXXXXXX
+  
 * 3.3 Backlog do Sprint
+
+  XXXXXXXXXXXXX
+  
 * 3.4 Controle de Mudanças
+
+  O monitoramento e controle do escopo do projeto, serão realizados com base nas seguintes diretrizes:
+
+1. Compreensão dos Requisitos:
+
+    * Todos os membros da equipe devem ter pleno entendimento dos requisitos do projeto
+
+    * Serão realizadas sessões de alinhamento para garantir a compreensão compartilhada
+
+2. Alinhamento das Entregas:
+
+    * Cada entrega deve ser validada por toda a equipe do projeto
+
+    * Critérios de aceitação devem ser claramente definidos para cada funcionalidade
+
+3. Atualização do Escopo:
+
+    * As seções de escopo e não-escopo do plano de trabalho serão revisadas semanalmente
+
+    * Qualquer alteração no status do projeto deve ser imediatamente refletida na documentação
+
+4. Controle de Atividades:
+
+    * Atividades fora do escopo estabelecido serão estritamente proibidas
+
+    * Exceções somente serão consideradas mediante atualização formal do plano
+
+5. Processo de Mudanças:
+
+    * Todas as alterações devem ser documentadas no GitHub
+
 * 3.5 Gerenciamento de Comunicação
+
+  A comunicação será feita de forma contínua e colaborativa, utilizando os seguintes meios:
+
+    * GitHub: como ambiente de documentação geral do projeto.
+ 
+    * GitHub Projects: organização e visualização do progresso das sprints.
+      
+    * Notion: registro diário das dailys, organização de atas e acompanhamento dos objetivos semanais.
+
+    * WhatsApp: para comunicação rápida entre os membros da equipe.
+
+    * Reuniões semanais online via MEET: para planejamento das sprints, validação de entregas e tratamento de pendências.
