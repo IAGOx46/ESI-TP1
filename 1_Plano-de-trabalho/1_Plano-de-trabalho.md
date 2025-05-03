@@ -121,33 +121,33 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 
   O monitoramento e controle do escopo do projeto, serão realizados com base nas seguintes diretrizes:
 
-1. Compreensão dos Requisitos:
+    * Compreensão dos Requisitos:
+    
+        * Todos os membros da equipe devem ter pleno entendimento dos requisitos do projeto
+    
+        * Serão realizadas sessões de alinhamento para garantir a compreensão compartilhada
 
-    * Todos os membros da equipe devem ter pleno entendimento dos requisitos do projeto
-
-    * Serão realizadas sessões de alinhamento para garantir a compreensão compartilhada
-
-2. Alinhamento das Entregas:
-
-    * Cada entrega deve ser validada por toda a equipe do projeto
-
-    * Critérios de aceitação devem ser claramente definidos para cada funcionalidade
-
-3. Atualização do Escopo:
-
-    * As seções de escopo e não-escopo do plano de trabalho serão revisadas semanalmente
-
-    * Qualquer alteração no status do projeto deve ser imediatamente refletida na documentação
-
-4. Controle de Atividades:
-
-    * Atividades fora do escopo estabelecido serão estritamente proibidas
-
-    * Exceções somente serão consideradas mediante atualização formal do plano
-
-5. Processo de Mudanças:
-
-    * Todas as alterações devem ser documentadas no GitHub
+    * Alinhamento das Entregas:
+    
+        * Cada entrega deve ser validada por toda a equipe do projeto
+    
+        * Critérios de aceitação devem ser claramente definidos para cada funcionalidade
+    
+    * Atualização do Escopo:
+    
+        * As seções de escopo e não-escopo do plano de trabalho serão revisadas semanalmente
+    
+        * Qualquer alteração no status do projeto deve ser imediatamente refletida na documentação
+    
+    * Controle de Atividades:
+    
+        * Atividades fora do escopo estabelecido serão estritamente proibidas
+    
+        * Exceções somente serão consideradas mediante atualização formal do plano
+    
+    * Processo de Mudanças:
+    
+        * Todas as alterações devem ser documentadas no GitHub
 
 * 3.5 Gerenciamento de Comunicação
 
