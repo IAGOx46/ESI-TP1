@@ -8,16 +8,16 @@
 | Coordenador do Projeto: | Prof. Dr. Andrey Rodrigues           |
 
 # Histórico de versões
-| Versão |         Descrição           |         Autor               |    Data    |
-| :---:  |            ---              |          ---                |   :---:    |
-| 1.0    | Planejamento e pesquisa     |  Iago Vinicius F. do Amaral | 22/04/2025 |
-| 1.1    | Elaboração Plano de Trabalho|  Iago Vinicius F. do Amaral | 23/04/2025 |
-| 1.2    | Elaboração da Introdução    |  Iago Vinicius F. do Amaral | 02/05/2025 |
-|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx        |                xxxxxxxxx    |   xxxxxx   |
+| Versão |         Descrição                 |         Autor               |    Data    |
+| -----  |---------------------------------- | --------------------------- | ---------- |
+|  1.0   | Planejamento e pesquisa           |  Iago Vinicius F. do Amaral | 22/04/2025 |
+|  1.1   | Elaboração Plano de Trabalho      |  Iago Vinicius F. do Amaral | 23/04/2025 |
+|  1.2   | Elaboração da Introdução          |  Iago Vinicius F. do Amaral | 02/05/2025 |
+|  1.3   | Elaboração das informações Gerais |  Iago Vinicius F. do Amaral | 03/05/2025 |
+|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
+|  xxxx  |         xxxxxxxxxxxx              |                xxxxxxxxx    |   xxxxxx   |
 
 # Índice (Sumário)
 # 1. Introdução
@@ -33,8 +33,8 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 
   O projeto se enquadra como um aplicativo móvel multiplataforma (Android/iOS) com componente web complementar, classificado como software comercial de utilidade pública. Desenvolvido como solução nova com integração a sistemas meteorológicos existentes, possui dupla finalidade:
 
-1. Aplicação prática: Fornecer alertas e dados climáticos confiáveis para usuários finais
-2. Base tecnológica: Servir como plataforma para pesquisa aplicada em meteorologia digital
+  * Aplicação prática: Fornecer alertas e dados climáticos confiáveis para usuários finais
+  * Base tecnológica: Servir como plataforma para pesquisa aplicada em meteorologia digital
 
   
 * 1.3.1 Classe
@@ -91,7 +91,19 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 | Desenvolvimento do MVP   |  Figma                          |
 
 * 2.3 Características Inovadoras do Projeto
+  
+    * Aplicativo móvel com tecnologia de ponta para previsão climática.
+    * Acessível em qualquer smartphone Android ou iOS.
+    * Dados meteorológicos atualizados em tempo real.
+    * Histórico climático dos últimos 5 dias com gráficos interativos.
+    
 * 2.4 Resultados Esperados
+
+    * Espera-se maior precisão e acesso rápido às informações climáticas.
+    * Simplificação do monitoramento do tempo e alertas personalizados.
+    * Dados confiáveis e em tempo real para melhor planejamento de atividades.
+    * Relatórios meteorológicos claros e úteis para tomada de decisões.
+
 # 3. Metodologia do Projeto
 * 3.1 Estrutura do Projeto
 * 3.2 Equipe de projeto: papéis e responsabilidades
