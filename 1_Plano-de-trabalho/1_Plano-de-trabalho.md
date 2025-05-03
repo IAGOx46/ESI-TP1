@@ -58,7 +58,22 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 
 # 2. Informações Gerais
 * 2.1 Escopo Geral
+
+  O projeto visa desenvolver um aplicativo móvel de monitoramento climático que fornecerá informações precisas e acessíveis para auxiliar usuários e profissionais em suas atividades 
+ diárias. Com integração a fontes oficiais de dados meteorológicos, a solução buscará oferecer alertas oportunos e conteúdo relevante, contribuindo para a segurança e o planejamento frente às variações climáticas.
+  
 * 2.1.1 Escopo Específico
+
+1. Alertar sobre possíveis tempestades na região.
+
+2. Atualização sobre o nível dos rios.
+
+3. Informar sobre a qualidade do Ar 
+
+4. Informar sobre o Clima em tempo real.
+
+5. Oferecer dados personalizados sobre o clima com base nas suas atividades locais. 
+
 * 2.1.2 Escopo Negativo
 * 2.2 Ambiente de Desenvolvimento
 * 2.3 Características Inovadoras do Projeto
