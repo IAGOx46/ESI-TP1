@@ -8,27 +8,27 @@
 | Coordenador do Projeto: | Prof. Dr. Andrey Rodrigues           |
 
 # Histórico de versões
-| Versão |         Descrição                    |         Autor               |    Data    |
-| -----  |------------------------------------- | --------------------------- | ---------- |
-|  1.0   | Planejamento e pesquisa              |  Iago Vinicius F. do Amaral | 22/04/2025 |
-|  1.1   | Elaboração Plano de Trabalho         |  Iago Vinicius F. do Amaral | 23/04/2025 |
-|  1.2   | Elaboração da Introdução             |  Iago Vinicius F. do Amaral | 02/05/2025 |
-|  1.3   | Elaboração das informações Gerais    |  Iago Vinicius F. do Amaral | 03/05/2025 |
-|  1.4   | Elaboração da metodologia do projeto |  Iago Vinicius F. do Amaral | 03/05/2025 |
-|  xxxx  |         xxxxxxxxxxxx                 |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx                 |                xxxxxxxxx    |   xxxxxx   |
-|  xxxx  |         xxxxxxxxxxxx                 |                xxxxxxxxx    |   xxxxxx   |
+| Versão |         Descrição                      |        Autor               |    Data    |
+| -----  |--------------------------------------- | -------------------------- | ---------- |
+|  1.0   | Planejamento e pesquisa                | Iago Vinicius F. do Amaral | 22/04/2025 |
+|  1.1   | Elaboração Plano de Trabalho           | Iago Vinicius F. do Amaral | 23/04/2025 |
+|  1.2   | Elaboração da Introdução               | Iago Vinicius F. do Amaral | 02/05/2025 |
+|  1.3   | Elaboração das informações Gerais      | Iago Vinicius F. do Amaral | 03/05/2025 |
+|  1.4   | Elaboração da metodologia do projeto   | Iago Vinicius F. do Amaral | 03/05/2025 |
+|  1.5   | Elaboração do controle de mudança      | Iago Vinicius F. do Amaral | 04/05/2025 |
+|  1.6   | Elaboração gereciamento de comunicação | Iago Vinicius F. do Amaral | 04/05/2025 |
+|  xxxx  |         xxxxxxxxxxxx                   |               xxxxxxxxx    |   xxxxxx   |
 
 # Índice (Sumário)
 # 1. Introdução
 * 1.1 Objeto
 
-  Este documento apresenta o planejamento do sistema XXXXXX, descrevendo os elementos fundamentais para o desenvolvimento do aplicativo de monitoramento climático, incluindo seu propósito principal, funcionalidades essenciais, requisitos técnicos e estrutura organizacional do projeto. O objetivo é estabelecer as bases para a construção de uma solução completa e eficiente de previsão meteorológica e alertas ambientais.
+  Este documento apresenta o planejamento do Aplicativo XXXXXX, descrevendo os elementos fundamentais para o desenvolvimento do aplicativo de monitoramento climático, incluindo seu propósito principal, funcionalidades essenciais, requisitos técnicos e estrutura organizacional do projeto. O objetivo é estabelecer as bases para a construção de uma solução completa e eficiente de previsão meteorológica e alertas ambientais.
   
 * 1.2 Motivação, Justificativa e Oportunidade
 
-  A crescente instabilidade climática tem aumentado a necessidade de informações meteorológicas precisas e acessíveis. Este aplicativo visa solucionar problemas como a falta de alertas 
-tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis, beneficiando agricultores, gestores públicos e a população em geral. A oportunidade se reforça pela  demanda por soluções digitais em meteorologia e pelo potencial de integrar dados de diversas fontes em uma plataforma única e intuitiva.
+  A crescente instabilidade climática tem aumentado a necessidade de informações meteorológicas precisas e acessíveis. Este aplicativo visa solucionar problemas como a falta de alertas tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis, beneficiando agricultores, gestores públicos e a população em geral. A oportunidade se reforça pela  demanda por soluções digitais em meteorologia e pelo potencial de integrar dados de diversas fontes em uma plataforma única e intuitiva.
+  
 * 1.3 Caracterização do projeto
 
   O projeto se enquadra como um aplicativo móvel multiplataforma (Android/iOS), classificado como software comercial de utilidade pública. Desenvolvido como solução nova com integração a sistemas meteorológicos existentes, possui dupla finalidade:
