@@ -18,5 +18,5 @@
 
 ### **Aplicativo: Smac**
 ### **Descrição:  desenvolvido para assinantes do serviços monitoramento e alerta de tempo de ativos**
-### **Público-Alvo: 
+### **Público-Alvo: Navegadores, Pilotos, Aventureiros, etc**
 
