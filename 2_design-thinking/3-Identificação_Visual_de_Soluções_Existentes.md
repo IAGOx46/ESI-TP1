@@ -14,4 +14,9 @@
 ### **Público-Alvo: Grandes Produtores, Agronomos**
 
 ## Aplicativo C
+![image](https://github.com/user-attachments/assets/2bbf4910-f25a-4b96-ba92-7386aafc521d)
+
+### **Aplicativo: Smac**
+### **Descrição:  desenvolvido para assinantes do serviços monitoramento e alerta de tempo de ativos**
+### **Público-Alvo: 
 
