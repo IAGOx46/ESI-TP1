@@ -10,8 +10,8 @@
 - #### [2.3 Quadro Comparativo](https://github.com/IAGOx46/ESI-TP1/blob/main/2_design-thinking/3-Quadro_comparativo.md)
 - #### [2.4 Personas](https://github.com/IAGOx46/ESI-TP1/blob/main/2_design-thinking/4-Personas.md) 
 
- ### [3. Backlog do Produto](https://github.com/users/IAGOx46/projects/3)
+ ### [3. Backlog do Produto](https://github.com/users/IAGOx46/projects/3)🌦️
 
-### [4. Backlog do Sprint](https://github.com/users/IAGOx46/projects/4)
+### [4. Backlog do Sprint](https://github.com/users/IAGOx46/projects/4)🏁
 
 
