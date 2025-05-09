@@ -183,18 +183,27 @@ O projeto será conduzido em cinco etapas principais, adotando a metodologia ág
 
 * 3.4 Controle de Mudanças
 
-O controle de mudanças do projeto serão realizados com base nas seguintes diretrizes:
+  O controle de mudanças do projeto serão realizados com base nas seguintes diretrizes:
 
-* Os requisitos do projeto devem ser claramente compreendidos por todos os membros da equipe.
-
-* Todas as dúvidas técnicas, de entregas e de cronograma levantadas pela equipe devem ser devidamente respondidas e documentadas.
-
-* As entregas planejadas serão acordadas entre a equipe de desenvolvimento, o coordenador do projeto e demais envolvidos.
-
-* As informações contidas nas seções de escopo e não-escopo do plano de trabalho devem estar sempre atualizadas e refletir fielmente o status do projeto.
-
-* Não será permitida a realização de atividades fora do escopo estabelecido, salvo em caso de atualização formal do plano.
+    * Os requisitos do projeto devem ser claramente compreendidos por todos os membros da equipe.
+  
+    * Todas as dúvidas técnicas, de entregas e de cronograma levantadas pela equipe devem ser devidamente respondidas e documentadas.
+   
+    * As informações contidas nas seções de escopo e não-escopo do plano de trabalho devem estar sempre atualizadas e refletir fielmente 
+     o status do projeto.
 
 * 3.5 Gerenciamento de Comunicação
+
+  A comunicação e organização da equipe se dará através das seguintes ferramentas:
+
+    * GitHub: Desenvolvimento e organização dos repositórios com as devidas informações e documentação das atividades. 
+    
+    * GitHub Projects: organização e visualização do progresso das sprints e backlog do produto.
+    
+    * Notion: registro diário das dailys e acompanhamento dos objetivos semanais.
+    
+    * WhatsApp: canal de comunicação rápida e informal entre os integrantes.
+    
+    * Reuniões Semanais (via Google Meet ou presencial): alinhamento das atividades, planejamento e revisão das sprints.
 
 
