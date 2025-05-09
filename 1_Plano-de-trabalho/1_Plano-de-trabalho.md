@@ -165,25 +165,35 @@ O projeto será conduzido em cinco etapas principais, adotando a metodologia ág
   
 * 3.3 Backlog do Sprint
 
-O backlog do sprint é uma lista de tarefas e funcionalidades que a equipe se compromete
-a entregar dentro de uma sprint.
+  O backlog do sprint é uma lista de tarefas e funcionalidades que a equipe se compromete
+  a entregar dentro de uma sprint.
 
-   * Escolha do Tema do Trabalho
-   * Realização do Brainstorm
-   * Desenvolvimento do Golden Circle
-   * Distribuições das Tarefas para cada integrante do Grupo
-   * Criação do repositório no Github
-   * Realização da Exploração de Mercado
-   * Análise SWOT
-   * Criação das Personas
-   * Elaboração do Quadro Comparativo de Soluções Existentes
-   * Desenvolvimento do Backlog do Sprint
-   * Desenvolvimento do Backlog do Produto
-   * Especificação da história do usuário
+    * Escolha do Tema do Trabalho
+    * Realização do Brainstorm
+    * Desenvolvimento do Golden Circle
+    * Distribuições das Tarefas para cada integrante do Grupo
+    * Criação do repositório no Github
+    * Realização da Exploração de Mercado
+    * Análise SWOT
+    * Criação das Personas
+    * Elaboração do Quadro Comparativo de Soluções Existentes
+    * Desenvolvimento do Backlog do Sprint
+    * Desenvolvimento do Backlog do Produto
+    * Especificação da história do usuário
 
 * 3.4 Controle de Mudanças
 
+O controle de mudanças do projeto serão realizados com base nas seguintes diretrizes:
 
+* Os requisitos do projeto devem ser claramente compreendidos por todos os membros da equipe.
+
+* Todas as dúvidas técnicas, de entregas e de cronograma levantadas pela equipe devem ser devidamente respondidas e documentadas.
+
+* As entregas planejadas serão acordadas entre a equipe de desenvolvimento, o coordenador do projeto e demais envolvidos.
+
+* As informações contidas nas seções de escopo e não-escopo do plano de trabalho devem estar sempre atualizadas e refletir fielmente o status do projeto.
+
+* Não será permitida a realização de atividades fora do escopo estabelecido, salvo em caso de atualização formal do plano.
 
 * 3.5 Gerenciamento de Comunicação
 
