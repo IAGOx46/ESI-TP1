@@ -165,8 +165,22 @@ O projeto será conduzido em cinco etapas principais, adotando a metodologia ág
   
 * 3.3 Backlog do Sprint
 
+O backlog do sprint é uma lista de tarefas e funcionalidades que a equipe se compromete
+a entregar dentro de uma sprint.
 
-  
+   * Escolha do Tema do Trabalho
+   * Realização do Brainstorm
+   * Desenvolvimento do Golden Circle
+   * Distribuições das Tarefas para cada integrante do Grupo
+   * Criação do repositório no Github
+   * Realização da Exploração de Mercado
+   * Análise SWOT
+   * Criação das Personas
+   * Elaboração do Quadro Comparativo de Soluções Existentes
+   * Desenvolvimento do Backlog do Sprint
+   * Desenvolvimento do Backlog do Produto
+   * Especificação da história do usuário
+
 * 3.4 Controle de Mudanças
 
 
