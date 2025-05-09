@@ -107,7 +107,53 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 # 3. Metodologia do Projeto
 * 3.1 Estrutura do Projeto
 
-  XXXXXXXXXXXX
+O projeto será conduzido em cinco etapas principais, adotando a metodologia ágil Scrum, com sprints curtas que permitirão entregas contínuas e incrementais.
+## Etapas do Projeto
+1. Geração da Ideia
+
+      * Compreensão do problema e definição do público-alvo.
+        
+      * Estudo de soluções já existentes no mercado e seus concorrentes.
+        
+      * Identificação dos elementos inovadores e do diferencial do projeto.
+        
+      * Caracterização dos perfis dos usuários finais.
+
+2. Coleta de Requisitos
+
+      * Organização e detalhamento do backlog do produto por meio do GitHub.
+      
+      * Estabelecimento de critérios para aceitação das funcionalidades.
+      
+      * Determinação das regras de negócio aplicáveis a cada funcionalidade.
+
+3. Design e Arquitetura
+
+      * Elaboração das telas e mapeamento do fluxo de navegação do sistema.
+      
+      * Escolha e definição da arquitetura que será utilizada.
+      
+      * Desenvolvimento dos diagramas de classe e da estrutura de dados.
+      
+      * Atualização do backlog e definição das funcionalidades prioritárias do MVP.
+
+4. Planejamento de Testes
+
+      * Mapeamento dos principais cenários de teste com base nas funcionalidades propostas.
+      
+      * Elaboração dos casos de teste a partir das histórias de usuário.
+      
+      * Estabelecimento de métricas de sucesso para cada funcionalidade.
+
+5. Desenvolvimento do MVP
+
+      * Codificação das funcionalidades essenciais utilizando o framework X.
+      
+      * Execução de testes e ajustes contínuos.
+      
+      * Entrega da versão inicial do MVP.
+      
+      * Coleta de feedback e aplicação de melhorias baseadas nos testes e validações dos usuários.
   
 * 3.2 Equipe de projeto: papéis e responsabilidades
 
