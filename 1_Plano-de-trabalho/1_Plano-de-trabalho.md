@@ -108,7 +108,7 @@ tempestivos para eventos extremos e a dificuldade no acesso a dados confiáveis,
 * 3.1 Estrutura do Projeto
 
 O projeto será conduzido em cinco etapas principais, adotando a metodologia ágil Scrum, com sprints curtas que permitirão entregas contínuas e incrementais.
-## Etapas do Projeto
+### Etapas do Projeto
 1. Geração da Ideia
 
       * Compreensão do problema e definição do público-alvo.
