@@ -161,7 +161,8 @@ O projeto será conduzido em cinco etapas principais, adotando a metodologia ág
 | -------------------| -------------------------- | ----------------- |
 | Product Owner (PO) |Prof. Dr. Andrey Rodrigues  | Representa o cliente, define prioridades e orienta a equipe para gerar valor no produto.|
 | Scrum Master (SM) | Lucas Castro dos Anjos  |  Facilita o processo Scrum e apoia a equipe na aplicação de boas práticas ágeis.|
-|Time Scrum| Iago Vinicius, Geovanni Veras, Marcos Gabriel, Jesus Bernardo e Rayssa Oliveira |Desenvolvem, testam e implementam as funcionalidades do sistema.|
+|Time Scrum| Iago Vinicius, Geovanni Veras, Marcos Gabriel, Jesus Bernardo e Rayssa Oliveira |Desenvolvem, testam e implementam as funcionalidades do sistema.| 
+
   
 * 3.3 Backlog do Sprint
 
