@@ -1,4 +1,4 @@
-# App de Monitoramento Climatico: BANZEIRO
+# App de Monitoramento Climatico: CLIMATEX
 
 ## Sumário 📋
 
