@@ -11,6 +11,7 @@
 
 ### **Aplicativo: AgroClima**
 ### **Descrição: poderá fazer a visualização e gestão meteorológica de sua fazenda com praticidade e rapidez** 
-### **Público-Alvo: 
+### **Público-Alvo: Grandes Produtores, Agronomos**
 
-Aplicativo C
+## Aplicativo C
+
