@@ -1,4 +1,4 @@
-# BANZEIRO
+# App de MOnitoramento Climatico: BANZEIRO
 
 ## Sumário 📋
 
