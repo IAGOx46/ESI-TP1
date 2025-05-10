@@ -89,7 +89,7 @@
     * Aplicativo móvel com tecnologia de ponta para previsão climática.
     * Acessível em qualquer smartphone Android ou iOS.
     * Dados meteorológicos atualizados em tempo real.
-    * Histórico climático dos últimos 5 dias com gráficos interativos.
+    * Histórico climático dos últimos 5 dias com gráficos.
     
 * 2.4 Resultados Esperados
 
