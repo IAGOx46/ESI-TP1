@@ -141,7 +141,7 @@ O projeto será conduzido em cinco etapas principais, adotando a metodologia ág
 
 5. Desenvolvimento do MVP
 
-      * Codificação das funcionalidades essenciais utilizando o framework X.
+      * Codificação das funcionalidades essenciais utilizando um framework.
       
       * Execução de testes e ajustes contínuos.
       
