@@ -37,7 +37,7 @@
    * -[Características Inovadoras do Projeto](#característicasinovadorasdoprojeto)
 - [Metodologia do Projeto](#metodologiadoprojeto)
    * -[Estrutura do Projeto](#estruturadoprojeto)
-   * -[Equipe de projeto: papéis e responsabilidades](#equipedeprojeto:papéiseresponsabilidades )
+   * -[Equipe de projeto: papéis e responsabilidades](#equipedeprojeto:papéiseresponsabilidades)
    * -[Backlog do Sprint](#backlogdosprint)
    * -[Controle de Mudanças](#controledemudanças)
    * -[Gerenciamento de Comunicação](#gerenciamentodecomunicação)
