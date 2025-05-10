@@ -27,6 +27,7 @@
    * -[Motivação, Justificativa e Oportunidade](#motivação,justificativaeoportunidade)
    * -[Caracterização do projeto](#caracterizaçãodoprojeto)
        * -[Classe](#classe)
+       * -[Enquadrabilidade](#Enquadrabilidade)
 
 # 1. Introdução
 * 1.1 Objeto
