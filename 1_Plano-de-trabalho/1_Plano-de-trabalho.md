@@ -23,7 +23,7 @@
 # 1. Introdução
 * 1.1 Objeto
 
-  Este documento apresenta o planejamento do Aplicativo **BANZEIRO**, descrevendo os elementos fundamentais para o desenvolvimento do aplicativo de monitoramento climático, incluindo seu propósito principal, funcionalidades essenciais, requisitos técnicos e estrutura organizacional do projeto. O objetivo é estabelecer as bases para a construção de uma solução completa e eficiente de previsão meteorológica e alertas ambientais.
+  Este documento apresenta o planejamento do Aplicativo **BANZEIRO**, descrevendo os elementos fundamentais para o seu desenvolvimento, incluindo seu propósito principal, funcionalidades essenciais, requisitos técnicos e estrutura organizacional do projeto. O objetivo é estabelecer as bases para a construção de uma solução completa e eficiente de previsão meteorológica e alertas ambientais.
   
 * 1.2 Motivação, Justificativa e Oportunidade
 
@@ -31,12 +31,6 @@
   
 * 1.3 Caracterização do projeto
 
-  O projeto se enquadra como um aplicativo móvel multiplataforma (Android/iOS), classificado como software comercial de utilidade pública. Desenvolvido como solução nova com integração a sistemas meteorológicos existentes, possui dupla finalidade:
-
-  * Aplicação prática: Fornecer alertas e dados climáticos confiáveis para usuários finais
-  * Base tecnológica: Servir como plataforma para pesquisa aplicada em meteorologia digital
-
-  
 * 1.3.1 Classe
   
 |      Classe      |                              Detalhamento                                        |
@@ -47,20 +41,20 @@
    
 |       Enquadrabilidade        |                                   Detalhamento                                        |
 | ----------------------------- | ------------------------------------------------------------------------------------- |
-| Software de Utilidade Pública | Aplicação voltada para prevenção de riscos ambientais e apoio a atividades econômicas |
+|      Software comercial       | Aplicação voltada para prevenção de riscos ambientais e apoio a atividades econômicas |
 
 * 1.3.3 Tipo
 
 |            Tipo             |                                      Detalhamento                                           |
 | ----------------------------|-------------------------------------------------------------------------------------------- |
-| Desenvolvimento de Software |           Criação de um novo sistema integrado com APIs meteorológicas oficiais.            |
+| Desenvolvimento de Software |           Criação de um novo app integrado com APIs meteorológicas oficiais.            |
 |     Trabalho Acadêmico      |  O desenvolvimento será realizado no contexto de uma disciplina de Engenharia de Software.  | 
 
 # 2. Informações Gerais
 * 2.1 Escopo Geral
 
   O projeto visa desenvolver um aplicativo móvel de monitoramento climático que fornecerá informações precisas e acessíveis para auxiliar usuários e profissionais em suas atividades 
- diárias. Com integração a fontes oficiais de dados meteorológicos, a solução buscará oferecer alertas oportunos e conteúdo relevante, contribuindo para a segurança e o planejamento frente às variações climáticas.
+ diárias e econômicas. Com integração a fontes oficiais de dados meteorológicos, a solução buscará oferecer alertas oportunos e conteúdo relevante, contribuindo para a segurança e o planejamento frente às variações climáticas.
   
 * 2.1.1 Escopo Específico
 
@@ -85,7 +79,7 @@
 | Componente               | Tecnologia/Ferramenta           |
 | ----------------------   | ------------------------------- |
 | Metodologia              |  Scrum com sprints              |
-| Gerenciamento de Backlog |  GitHub                         |
+| Gerenciamento de Backlog |  GitHub Projects                |
 | Repositório de Código    |  GitHub                         |
 | Modelagem de Software    |  Astah UML/ Draw.io (diagramas) |
 | Desenvolvimento do MVP   |  Figma                          |
