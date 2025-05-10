@@ -1,11 +1,11 @@
 # Plano de trabalho
 
-| Nome do Projeto:        |**Aplicativo Monitoramento Climático**|
-| ----------------------- | ------------------------------------ |
-| Versão:                 | **1.0**                              |
-| Status:                 | **Em desenvolvimento**               |
-| Executor Principal:     | Discente: Lucas Castro do Anjos      |
-| Coordenador do Projeto: | Prof. Dr. Andrey Rodrigues           |
+| Nome do Projeto:        |**Aplicativo Monitoramento Climático: BANZEIRO**|
+| ----------------------- | ---------------------------------------------- |
+| Versão:                 | **1.0**                                        |
+| Status:                 | **Em desenvolvimento**                         |
+| Executor Principal:     | Discente: Lucas Castro do Anjos                |
+| Coordenador do Projeto: | Prof. Dr. Andrey Rodrigues                     |
 
 # Histórico de versões
 | Versão |         Descrição                      |        Autor               |    Data    |
@@ -23,7 +23,7 @@
 # 1. Introdução
 * 1.1 Objeto
 
-  Este documento apresenta o planejamento do Aplicativo XXXXXX, descrevendo os elementos fundamentais para o desenvolvimento do aplicativo de monitoramento climático, incluindo seu propósito principal, funcionalidades essenciais, requisitos técnicos e estrutura organizacional do projeto. O objetivo é estabelecer as bases para a construção de uma solução completa e eficiente de previsão meteorológica e alertas ambientais.
+  Este documento apresenta o planejamento do Aplicativo **BANZEIRO**, descrevendo os elementos fundamentais para o desenvolvimento do aplicativo de monitoramento climático, incluindo seu propósito principal, funcionalidades essenciais, requisitos técnicos e estrutura organizacional do projeto. O objetivo é estabelecer as bases para a construção de uma solução completa e eficiente de previsão meteorológica e alertas ambientais.
   
 * 1.2 Motivação, Justificativa e Oportunidade
 
@@ -39,9 +39,9 @@
   
 * 1.3.1 Classe
   
-|      Classe      |                              Detalhamento                                       |
-| -----------------| ------------------------------------------------------------------------------- |
-| Aplicativo Móvel | Solução multiplataforma (Android/iOS) para monitoramento climático em tempo real|
+|      Classe      |                              Detalhamento                                        |
+| -----------------| -------------------------------------------------------------------------------- |
+| Aplicativo Móvel | Solução multiplataforma (Android/iOS) para monitoramento climático em tempo real |
 
 * 1.3.2 Enquadrabilidade
    
@@ -206,5 +206,3 @@ O projeto será conduzido em cinco etapas principais, adotando a metodologia ág
     * WhatsApp: canal de comunicação rápida e informal entre os integrantes.
     
     * Reuniões Semanais (via Google Meet ou presencial): alinhamento das atividades, planejamento e revisão das sprints.
-
-
