@@ -17,9 +17,12 @@
 |  1.4   | Elaboração da metodologia do projeto   | Iago Vinicius F. do Amaral | 03/05/2025 |
 |  1.5   | Elaboração do controle de mudança      | Iago Vinicius F. do Amaral | 04/05/2025 |
 |  1.6   | Elaboração gereciamento de comunicação | Iago Vinicius F. do Amaral | 04/05/2025 |
-|  xxxx  |         xxxxxxxxxxxx                   |               xxxxxxxxx    |   xxxxxx   |
+|  1.7   | Revisão do Plano de trabalho           | Iago Vinicius F. do Amaral | 09/05/2025 |
 
-# Índice (Sumário)
+# Índice 
+### Sumário
+
+
 # 1. Introdução
 * 1.1 Objeto
 
