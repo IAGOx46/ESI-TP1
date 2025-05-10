@@ -27,7 +27,20 @@
    * -[Motivação, Justificativa e Oportunidade](#motivação,justificativaeoportunidade)
    * -[Caracterização do projeto](#caracterizaçãodoprojeto)
        * -[Classe](#classe)
-       * -[Enquadrabilidade](#Enquadrabilidade)
+       * -[Enquadrabilidade](#enquadrabilidade)
+       * -[Tipo](#tipo)
+- [Informações Gerais](#informaçõesgerais)
+   * -[Escopo Geral](#escopogeral)
+       * -[Escopo Específico](#escopoespecífico)
+       * -[Escopo Negativo](#escoponegativo)
+   * -[Ambiente de Desenvolvimento](#ambientededesenvolvimento)
+   * -[Características Inovadoras do Projeto](#característicasinovadorasdoprojeto)
+- [Metodologia do Projeto](#metodologiadoprojeto)
+   * -[Estrutura do Projeto](#estruturadoprojeto)
+   * -[Equipe de projeto: papéis e responsabilidades](#equipedeprojeto:papéiseresponsabilidades )
+   * -[Backlog do Sprint](#backlogdosprint)
+   * -[Controle de Mudanças](#controledemudanças)
+   * -[Gerenciamento de Comunicação](#gerenciamentodecomunicação)
 
 # 1. Introdução
 * 1.1 Objeto
