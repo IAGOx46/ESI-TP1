@@ -17,6 +17,6 @@
 <img src="https://github.com/user-attachments/assets/2bbf4910-f25a-4b96-ba92-7386aafc521d" width="400">
 
 ### **Aplicativo: Smac**
-### **Descrição:  desenvolvido para assinantes do serviços monitoramento e alerta de tempo de ativos**
+### **Descrição:  desenvolvido para assinantes do serviços monitoramento e alerta de tempo ativos**
 ### **Público-Alvo: Navegadores, Pilotos, Aventureiros, etc**
 
