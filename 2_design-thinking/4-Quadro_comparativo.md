@@ -2,7 +2,7 @@
 ## Quadro Comparativo de Solução existentes
 | Critério Solução | Solução A (Clima Tempo) | Solução B (AgroClima) | Solução C (Smac) | Nossa Solução |
 |------------------|-------------------------|-----------------------|------------------|---------------|
-| Modelo de Negócio | Freemium, Assinatura, Licenciamento de dados, B2B e APIs | Assinatura premium, Parceria com outras marcas, Consultoria e Serviços etc | Freemium, Licenciamento Corporativo e Educacional, Vendas de Dados, etc | Freemium |
+| Modelo de Negócio | Freemium, Assinatura, Licenciamento de dados, B2B e APIs | Assinatura premium, Parceria com outras marcas, Consultoria e Serviços etc | Freemium, Licenciamento Corporativo e Educacional, Vendas de Dados, etc | Freemium, PLano de Assinatura |
 | Tecnologia utilizada| Mobile | Mobile | Mobile | Mobile |
 | Público-Alvo | Jovens, Empresas, Turista | Grande produtores, Agrônomos | Navegadores, Pilotos, Aventureiros |jovens, adultos, publico geral |
 | Pontos Fortes | Alta Confiabilidade, Cobertura Nacional e Localizada, Alertas Meteorológicos em Tempo real  | Previsões Climáticas Precisos e Personalizadas, Integração com Sensores e Estações Meteorológicas  | Dados Meteorológicos Preciso e Atualizados, Previsão Detalhadas de Longo Prazo | Disponibilização de dados meteorológicos e hidrológicos em tempo real, Atende às demandas específicas dos usuários da região|
