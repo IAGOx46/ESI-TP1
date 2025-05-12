@@ -15,5 +15,5 @@
 
 ### [4. Backlog do Sprint](https://github.com/users/IAGOx46/projects/4) 🏁
 ### [5. Scrum Dailys](https://www.notion.so/team/1dde0def-92eb-81de-88ec-004279903901/join) 📆
-### [6. Brainstorm](https://www.notion.so/1e8e0def92eb8003ab6be4a9b1864096?v=1e8e0def92eb80af9d68000c7bbd2b6c&pvs=4) 🧠
+### [6. Brainstorm](https://www.notion.so/1eee0def92eb80eb94c7e16a8d296e82?v=1eee0def92eb812a9a76000cbb08f887&pvs=4) 🧠
 
