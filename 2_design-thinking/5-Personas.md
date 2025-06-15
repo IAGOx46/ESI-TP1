@@ -95,3 +95,40 @@ Carla atua diretamente no aplicativo, inserindo dados meteorológicos em tempo r
 
 * # Persona 3
 <img src="https://github.com/user-attachments/assets/e7a0a395-52bc-404d-b0cc-4ad1d6febdb0" width="800">
+# 👨‍💻 Persona 3 – Marcos
+
+## 🟩 Quem é?
+- **Nome:** Marcos, 37 anos  
+- **Profissão:** Administrador do aplicativo de monitoramento climático  
+- **Perfil técnico:** Desenvolvedor full stack com foco em estabilidade, atualizações e segurança do sistema. Responsável pela gestão dos dados e manutenção da infraestrutura.
+
+---
+
+## 🟪 Contexto
+Marcos utiliza o sistema para realizar manutenções, verificar logs de erro, garantir estabilidade e desempenho do servidor. Também é o responsável por implementar melhorias com base no feedback de meteorologistas e usuários.
+
+---
+
+## 🟨 Problemas / Necessidades / Desejos
+- **P1:** Precisa identificar falhas rapidamente para evitar indisponibilidades.
+- **P2:** Deseja atualizar o sistema sem interromper os serviços.
+- **P3:** Quer manter uma comunicação clara e constante com meteorologistas e usuários.
+
+---
+
+## 🟧 Experiências Prévias / Preferências
+- **R1:** Prefere painéis de controle organizados e com alertas bem detalhados.
+- **R2:** Tem experiência com Grafana e Firebase.
+- **R3:** Valoriza automações para envio de alertas e execução de tarefas técnicas.
+- **R4:** Acompanha métricas de desempenho do sistema e evolução da plataforma.
+
+---
+
+## 🟦 Soluções Existentes
+- **APIs Meteorológicas Robustas:** Como OpenWeather, Climecell ou INMET.
+- **Grafana e Prometheus:** Para monitoramento em tempo real, alertas técnicos e logs.
+- **Soluções de backend modernas:** Que permitem atualizações sem downtime e integrações com sistemas externos.
+
+---
+
+
