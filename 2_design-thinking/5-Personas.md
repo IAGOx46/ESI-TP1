@@ -43,5 +43,55 @@ Sua principal preocupação são as chuvas fortes e a cheia dos rios, pois isso 
 * # Persona 2
 <img src="https://github.com/user-attachments/assets/3a8b3e94-fe1f-4bef-a257-3285d37e7b45" width="800">
 
+# 👤 Persona 2 – Carla
+
+## 🟩 Quem é?
+Carla tem 35 anos, é meteorologista sênior e doutora em Ciências Atmosféricas pela USP.  
+Trabalha há 4 anos em pesquisa e desenvolvimento de modelos e tecnologia meteorológica.  
+Colabora com grupos de validação de dados e tem forte compromisso com tornar a ciência acessível e aplicável à população.
+
+---
+
+## 🟪 Contexto
+Carla atua diretamente no aplicativo, inserindo dados meteorológicos em tempo real e validando previsões, além de realizar edições quando necessário.
+
+---
+
+## 🟨 Problemas / Necessidades / Desejos
+
+- **P1:** Necessita de uma plataforma que permita **introdução e edição simplificada de dados climáticos**.
+- **P2:** Deseja **facilitar a compreensão dos alertas** por parte dos usuários finais, tornando-os acessíveis a públicos diversos.
+
+---
+
+## 🟧 Experiências Prévias / Preferências
+
+- **E1:** Valoriza **visualizações gráficas intuitivas** e interativas.
+- **E2:** Gosta de revisar previsões antes da publicação, mesmo sob pressão.
+- **E3:** Preocupa-se com o **impacto das decisões técnicas** no cotidiano das pessoas.
+- **E4:** Busca **melhorias contínuas no uso real do sistema**, com base em feedbacks.
+
+---
+
+## 🟦 Soluções Existentes
+
+- **Plataformas meteorológicas:**  
+  - Meteobridge  
+  - Windy  
+  - Ventusky (com visualizações gráficas interativas)
+
+- **Painéis meteorológicos técnicos:**  
+  - INMET  
+  - CPTEC  
+  - NOAA (com exportação de modelos e suporte à customização)
+
+- **Soluções para especialistas:**  
+  - Sistemas com lógica de edição de dados  
+  - Ferramentas científicas com personalização e exportação de modelos
+
+---
+
+
+
 * # Persona 3
 <img src="https://github.com/user-attachments/assets/e7a0a395-52bc-404d-b0cc-4ad1d6febdb0" width="800">
