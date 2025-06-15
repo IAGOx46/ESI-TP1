@@ -1,16 +1,23 @@
 * # Persona 1
 <img src="https://github.com/user-attachments/assets/61705de2-b7f3-462c-a2bd-e0de7436e683" width="800">
-# 👤 Persona 1 – Lucas
-
-## 🟩 Quem é?
-Lucas tem 28 anos e vive em uma comunidade ribeirinha no Amazonas. Trabalha com agricultura e pesca.  
-O acesso à tecnologia é limitado: ele utiliza internet via satélite quando disponível. Seu modo de vida está diretamente relacionado às condições climáticas, que impactam tanto sua produção quanto sua mobilidade.
-
 ---
 
-## 🟪 Contexto
-Lucas busca constantemente informações sobre o clima e o nível dos rios, sempre que consegue sinal de internet, geralmente no período da manhã.  
-Sua principal preocupação são as chuvas fortes e a cheia dos rios, pois isso afeta sua locomoção e produção agrícola.
+## 🧍‍♂️ Persona 1 – Lucas (28 anos)  
+**📍 Agricultor Ribeirinho | Usuário Final do Sistema**
+
+### 🟩 Descrição:
+Lucas vive em uma comunidade ribeirinha na região amazônica. Trabalha com agricultura e pesca, atividades diretamente impactadas pelas condições climáticas. Seu acesso à internet é limitado e, quando disponível, é via satélite. Seu conhecimento tecnológico é básico.
+
+### 🕒 Comportamento e Rotina:
+- Consulta previsões do tempo sempre que tem conexão com a internet.
+- Está preocupado com chuvas intensas e cheias dos rios, que afetam sua produção e mobilidade.
+- Usa informações meteorológicas para planejar seu dia e proteger sua rotina.
+
+### ❗ Dores e Necessidades:
+- Precisa de **previsões confiáveis**, atualizadas e **fáceis de entender**.
+- Prefere **alertas visuais** (ícones, cores, símbolos).
+- Precisa receber **informações por SMS ou rádio comunitária**, devido à limitação de internet.
+- Busca por uma **interface simples e sem jargões técnicos**.
 
 ---
 
