@@ -1,2 +1,2 @@
 # Diagrama de Contexto
-<img src="https://github.com/user-attachments/assets/b75c707d-4925-4bdf-9124-f77215327f2b" width="1000">
+<img src="https://github.com/user-attachments/assets/a4105d55-86f8-40ff-8353-99af88682252" width="1100">
