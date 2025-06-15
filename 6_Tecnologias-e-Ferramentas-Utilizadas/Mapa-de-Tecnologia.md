@@ -5,9 +5,6 @@ Este documento descreve a estrutura tecnológica utilizada no sistema, com foco 
 ---
 
 <img src=https://github.com/IAGOx46/ESI-TP1/blob/main/images/image.png>
-# 🧠 Arquitetura Tecnológica do Sistema
-
-Este documento descreve a estrutura tecnológica utilizada no sistema, com foco nas camadas funcionais e ferramentas associadas. A arquitetura busca equilíbrio entre flexibilidade, acessibilidade e robustez, integrando soluções de baixo código com tecnologias escaláveis.
 
 ---
 
@@ -98,7 +95,48 @@ Viabilizar a publicação, escalabilidade e manutenção constante do sistema, p
 
 ---
 
-> ✅ Esta arquitetura foi pensada para ser **modular**, permitindo adaptações conforme as **condições locais de conectividade**, perfis de usuários (como Lucas e Carla), e recursos disponíveis para desenvolvimento e operação (como Marcos).
+# 🧰 Tabela de Tecnologias Utilizadas (Tech Table)
 
+Esta tabela resume as principais tecnologias adotadas para o desenvolvimento do sistema, organizadas por camadas arquiteturais. Cada tecnologia foi escolhida com base em sua compatibilidade com plataformas no-code, facilidade de integração e escalabilidade.
+
+---
 
 <img src=https://github.com/IAGOx46/ESI-TP1/blob/main/images/Captura%20de%20tela%202025-06-14%20230959.png>
+
+---
+
+## 🧱 Camada: Frontend
+
+- **Tecnologia:** Thunkable  
+- **Justificativa:** Plataforma no-code com suporte _cross-platform_ (Android e iOS). Permite criar interfaces gráficas e interações com facilidade, sem necessidade de codificação avançada.
+
+---
+
+## ⚙️ Camada: Backend
+
+- **Tecnologia:** Thunkable Cloud, API REST  
+- **Justificativa:** Integração com serviços externos via REST, possibilitando o consumo dinâmico de dados meteorológicos em tempo real. O Thunkable Cloud viabiliza lógica de backend mesmo em ambiente no-code.
+
+---
+
+## 🗃️ Camada: Banco de Dados
+
+- **Tecnologia:** Google Sheets, Airtable  
+- **Justificativa:** Soluções acessíveis e visuais, integradas diretamente ao Thunkable. Permitem armazenar e consultar dados estruturados com agilidade, ideal para MVPs e protótipos rápidos.
+
+---
+
+## 🔐 Camada: Autenticação
+
+- **Tecnologia:** OAuth 2.0  
+- **Justificativa:** Padrão amplamente adotado que oferece segurança e escalabilidade no controle de acesso ao sistema. Compatível com diversos serviços de terceiros (Google, Facebook, etc).
+
+---
+
+## ☁️ Camada: Deploy
+
+- **Tecnologia:** Thunkable (APK/IPA Generator), Publicação na App Store / Play Store  
+- **Justificativa:** Geração fácil de aplicativos instaláveis (APK/IPA) e publicação direta nas principais lojas de aplicativos, facilitando a distribuição ao público final.
+
+---
+
