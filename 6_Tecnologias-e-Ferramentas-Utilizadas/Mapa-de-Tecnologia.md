@@ -1,3 +1,9 @@
+# 🧠 Arquitetura Tecnológica do Sistema
+
+Este documento descreve a estrutura tecnológica utilizada no sistema, com foco nas camadas funcionais e ferramentas associadas. A arquitetura busca equilíbrio entre flexibilidade, acessibilidade e robustez, integrando soluções de baixo código com tecnologias escaláveis.
+
+---
+
 <img src=https://github.com/IAGOx46/ESI-TP1/blob/main/images/image.png>
 # 🧠 Arquitetura Tecnológica do Sistema
 
