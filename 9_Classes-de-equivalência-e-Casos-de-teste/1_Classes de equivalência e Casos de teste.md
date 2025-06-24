@@ -1,4 +1,4 @@
-H2 (Registro de Nível dos Rios)
+# H2 (Registro de Nível dos Rios)
 
 Classe de Equivalência
 
@@ -18,7 +18,7 @@ Tabela de Casos de Testes
 | Caso 3 | 1 , 4, 5 | Dados completos, data 23/06/2025, nível \-5m | Registro inválido (error de valor inválido) |
 | Caso 4 | 1, 3, 6 | Dados completos, Data: 34/13/15, nível: 10m,  | Registro inválido (erro de formato de data) |
 
-H3 (Download de Conteúdos)
+# H3 (Download de Conteúdos)
 
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
@@ -37,7 +37,7 @@ Tabela Casos de Testes
 | Caso 4 | 1, 3, 6, 7 | Espaço Disponível, permissão concedida, arquivo indisponível, conexão disponível | Erro: Arquivo indisponível |
 | Caso 5 | 1, 3, 5, 8 | Espaço disponível, permissão concedida, arquivo disponível, sem conexão. | Erro: Sem Conexão |
 
-H4 (Edição de Texto de Alertas)
+# H4 (Edição de Texto de Alertas)
 
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
@@ -54,7 +54,7 @@ Tabela Caso de Teste
 | Caso 3 | 1, 4, 5 | Usuário autorizado, texto: Chuva Prevista ás 20:00h., texto invalido | Erro: Texto obrigatório |
 | Caso 4 | 1, 3, 6 | Usuário autorizado, texto com mais de 500 caracteres: Chuva Prevista ás 20:00h…………….., texto válido | Erro: Limite de caracteres excedido  |
 
-H5 (Recebimento de Alertas)
+# H5 (Recebimento de Alertas)
 
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
@@ -71,7 +71,7 @@ Tabela Casos de Teste
 | Caso 3 | 1, 4, 5 | Localização: Comunidade  Arary, nível: 10 m, alertas ativados. | Alerta não enviado(nível dentro do limite) |
 | Caso 4 | 1, 3, 6 | Localização: Comunidade  Arary, nível: 18 m, alertas desativados. | Erro: Recebimento de Alertas Desativasdo  |
 
-H6 (Notificação de Dias Secos)
+# H6 (Notificação de Dias Secos)
 
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
