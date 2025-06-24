@@ -1,15 +1,15 @@
 # H2 (Registro de Nível dos Rios)
 
-Classe de Equivalência
+A seleção das classes foi baseada nos campos obrigatórios do registro (data, hora, local e valor), e nos critérios de validade dos dados inseridos. Foram consideradas entradas completas e válidas, ausência de campos, valores negativos e formatos incorretos. Também se testou o uso de evidências opcionais e a manutenção de histórico de versões ao editar. As combinações garantem que o sistema aceite apenas registros coerentes e seguros, e rejeite entradas incompletas ou com erros.
 
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
-| Preencher todos os campos obrigatórios (data, hora, local, valor do nível) | Dados completos (1) | Campo obrigatório ausente  (2) |
-| Valor de nível dentro de um intervalo aceitável (\>0 e \<100 metros) | Valor entre 0.1 e 100m  (3) | Valor negativo ou zero  (4) |
-| Formato correto para data | Data  (5) | Data em Formato Invalido (6) |
-| Anexar evidências (opcionais) | Com evidência (foto ou comentário)  (7) |  |
+| Preencher todos os campos obrigatórios (data, hora, local, valor do nível) | Dados completos (1) | Campo obrigatório ausente (2)|
+| Valor de nível dentro de um intervalo aceitável (\>0 e \<100 metros) | Valor entre 0.1 e 100m  (3) | Valor negativo ou zero (4)|
+| Formato correto para data | Data (5) | Data em Formato Invalido (6) |
+| Anexar evidências (opcionais) | Com evidência (foto ou comentário)  (7) | |
 
-Tabela de Casos de Testes
+## Tabela de Casos de Testes
 
 | Caso de Teste | Classes de Equivalência | Entradas | Resultados Esperados |
 | :---- | :---- | :---- | :---- |
@@ -20,6 +20,8 @@ Tabela de Casos de Testes
 
 # H3 (Download de Conteúdos)
 
+As classes consideram os principais fatores que afetam o sucesso do download: espaço disponível, permissão de escrita, existência do arquivo e conexão ativa com a internet. As combinações foram pensadas para validar tanto o caminho ideal quanto situações que causam falhas esperadas. Isso garante que o sistema se comporte corretamente ao lidar com restrições do dispositivo ou do ambiente.
+
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
 | Existe espaço suficiente no dispositivo | Espaço Disponível (1) | Sem espaço suficiente  (2) |
@@ -27,7 +29,7 @@ Tabela de Casos de Testes
 | Arquivo disponível para download | Arquivo existe  (5) | Arquivo inexistente (6) |
 | Conexão de internet ativa no momento do download | Conexão presente  (7) | Sem Conexão (8) |
 
-Tabela Casos de Testes
+## Tabela Casos de Testes
 
 | Caso de Teste | Classes de Equivalência | Entradas | Resultados Esperados |
 | :---- | :---- | :---- | :---- |
@@ -39,13 +41,15 @@ Tabela Casos de Testes
 
 # H4 (Edição de Texto de Alertas)
 
+O foco aqui foi garantir que apenas usuários autorizados possam editar alertas e que os textos estejam preenchidos e dentro do limite de caracteres. Também foi considerada a obrigatoriedade de manter um histórico de versões após cada edição. As combinações testam tanto o fluxo ideal quanto erros comuns, como falta de permissão, texto vazio ou histórico perdido.
+
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
 | Usuário tem permissão para editar | Possui permissão (1) | Não possui permissão (2) |
 | Texto de alerta não está vazio | Texto Preenchido (3) | Texto Vazio (4) |
 | Texto atende ao limite máximo de caracteres | Texto com até 500 caracteres (5) | Texto ultrapassa 500 caracteres (6) |
 
-Tabela Caso de Teste
+## Tabela Caso de Teste
 
 | Caso de Teste | Classes de Equivalência | Entradas | Resultados Esperados |
 | :---- | :---- | :---- | :---- |
@@ -56,13 +60,15 @@ Tabela Caso de Teste
 
 # H5 (Recebimento de Alertas)
 
+As classes testam se o usuário tem localização configurada, se o nível do rio exige alerta, se o recebimento está ativado e se o sistema de notificação está disponível. A ideia foi validar que alertas só sejam enviados quando todas essas condições forem atendidas, evitando notificações incorretas ou não entregues.
+
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
 | Usuário está cadastrado e com localização definida | Localização definida (1) | Localização não definida (2) |
 | Nível do rio está acima do limite de alerta | Nível acima do limite  (3) | Nível dentro do Normal  (4) |
 | Configuração de recebimento de alertas está ativada | Recebimentos de alertas ativado (5) | Recebimentos de alertas ativado (6) |
 
-Tabela Casos de Teste
+## Tabela Casos de Teste
 
 | Caso de Teste | Classes de Equivalência | Entradas | Resultados Esperados |
 | :---- | :---- | :---- | :---- |
@@ -73,13 +79,15 @@ Tabela Casos de Teste
 
 # H6 (Notificação de Dias Secos)
 
+A escolha das classes de equivalência para a história H6 foi baseada nas condições essenciais para que o alerta de “dia seco” seja enviado: a probabilidade de chuva deve ser 0%, a data da previsão precisa ser o dia atual, o usuário deve ter ativado o recebimento de alertas, e o sistema de notificações precisa estar funcional. Cada classe representa um cenário válido ou inválido para testar o comportamento esperado do sistema. As combinações nos testes cobrem situações típicas, limites e falhas, garantindo que o sistema envie alertas apenas quando todas as condições forem atendidas.
+
 | Condição de Entrada | Classes Válidas | Classes Inválidas |
 | ----- | ----- | ----- |
 | Probabilidade de chuva igual a 0% | Probabilidade de Chuva 0% (1) | Probabilidade de Chuva maior que 0% (2) |
 | Data de Previsão do dia correspondente ao dia atual | Data da previsão do dia Atual (3) | Data Passada ou futura (4) |
 | Configuração de recebimento de alertas está ativada | Recebimentos de alertas ativado (5) | Recebimentos de alertas ativado (6) |
 
-Tabela Casos de Teste 
+## Tabela Casos de Teste 
 
 | Caso de Teste | Classes de Equivalência | Entradas | Resultados Esperados |
 | :---- | :---- | :---- | :---- |
