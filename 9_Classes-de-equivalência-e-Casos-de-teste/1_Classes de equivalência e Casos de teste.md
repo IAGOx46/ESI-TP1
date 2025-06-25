@@ -96,7 +96,7 @@ A escolha das classes de equivalência para a história H6 foi baseada nas condi
 | Caso 3 | 1, 4, 5 | Probabilidade 0%, mas previsão para data futura | Nenhum Alerta enviado |
 | Caso 4 | 1, 3, 6 | Probabilidade 0%, data de hoje, alerta ativado, sistema de notificação desativado | Nenhum Alerta enviado |
 
-H1 \- Classes de equivalência
+# H1 (Criar Conta)
 
 | Condição de entrada | Classes válidas | Classes inválidas |
 | :---: | :---: | :---: |
@@ -107,7 +107,7 @@ H1 \- Classes de equivalência
 
  
 
-H1- Casos de teste
+## Tabela Casos de teste
 
 | Caso | Classe de Equivalência | Entrada | Resultado esperado |
 | :---: | :---: | ----- | :---: |
@@ -121,7 +121,7 @@ H1- Casos de teste
 
  
 
-H10 \- Classe de equivalência
+# H10 (Dados personalizados)
 
 | Condição de entrada | Classes válidas | Classe inválidas |
 | :---: | :---: | :---: |
@@ -132,7 +132,7 @@ H10 \- Classe de equivalência
 
  
 
-H10 \- Caso de teste
+## Tabela Casos de testes
 
 | Caso | Classe de equivalêcia | Entrada | Resultado esperado |
 | :---: | :---: | ----- | :---: |
@@ -146,7 +146,7 @@ H10 \- Caso de teste
 
  
 
-H9 \- Classe de equivalência
+# H9 (Atualização do Nível dos Rios)
 
 | Condição de entrada | Classes válidas | Classes inválidas |
 | :---: | :---: | :---: |
@@ -157,7 +157,7 @@ H9 \- Classe de equivalência
 
  
 
-H9 \- Caso de teste
+## Tabela Casos de testes
 
 | Caso | Classes de equivalência | Entrada | Resultado esperado |
 | :---: | :---: | ----- | :---: |
@@ -171,7 +171,7 @@ H9 \- Caso de teste
 
  
 
-H8 \- Teste de equivalência
+# H8 (Autenticação Multifator (MFA) )
 
 | Condição de entrada | Classes válidas | Classes inválidas |
 | :---: | :---: | :---: |
@@ -182,7 +182,7 @@ H8 \- Teste de equivalência
 
  
 
-H8- Caso de teste
+## Tabela Casos de testes
 
 | Caso | Classe de equivalência | Entrada | Resultado esperado |
 | :---: | :---: | :---: | :---: |
@@ -196,7 +196,7 @@ H8- Caso de teste
 
  
 
-H7 \- Teste de equivalência
+# H7 (Alerta de Tempestade)
 
 | Condição de entrada | Classe válida | Classe inválida |
 | :---: | :---: | :---: |
@@ -209,7 +209,7 @@ H7 \- Teste de equivalência
 
  
 
-H7 \- Caso de teste
+## Tabela Casos de testes
 
 | Caso | Classe de equivalência | Entrada | Resultado esperado |
 | :---: | :---: | :---: | :---: |
