@@ -98,13 +98,14 @@ A escolha das classes de equivalência para a história H6 foi baseada nas condi
 
 # H1 (Criar Conta)
 
+A tabela apresenta as condições necessárias para o funcionamento correto da funcionalidade "Criar Conta", destacando os critérios que definem quando o cadastro é válido ou inválido. Para ser aceito, é preciso preencher todos os campos obrigatórios com dados no formato correto, usar um e-mail ainda não cadastrado e contar com o sistema de autenticação funcionando. Quando essas condições são atendidas, o cadastro é classificado como válido; caso contrário, ele é considerado inválido, com falhas como campos ausentes, dados mal formatados, e-mail repetido ou sistema fora do ar
+
 | Condição de entrada | Classes válidas | Classes inválidas |
 | :---: | :---: | :---: |
 | Todos os campos obrigatórios preenchidos (nome, e-mail, senha, tipo) | Dados completos (1) | Dados ausentes (2) |
 | Formato correto de dados (ex.: e-mail inválido, senha com critérios mínimos ) | Dados válidos (3) | Dados  com formato inválidos (4) |
 | E-mail não cadastrado anteriormente | E-mail disponível (5) | E-mail já cadastrado (6) |
 | Sistema de autenticação funcionando | Sistema operacional (7) | Sistema fora do ar (8) |
-
  
 
 ## Tabela Casos de teste
@@ -117,11 +118,11 @@ A escolha das classes de equivalência para a história H6 foi baseada nas condi
 | Caso 4 | 1, 3, 6, 7 | Nome: João Silva, Email: joao@gmail.com (já cadastrado), Senha: Joao@123, Tipo: Ribeirinho | Erro: e-mail em uso |
 | Caso 5 | 1, 3, 5, 8 |      Nome: João Silva, Email: joao@gmail.com, Senha: Joao@123, Tipo: Ribeirinho, Sistema fora do ar     | Erro: Serviço indisponível |
 
- 
-
- 
+  
 
 # H10 (Dados personalizados)
+
+A tabela descreve as condições necessárias para o correto funcionamento da funcionalidade "Dados personalizados", que depende da configuração da localização e perfil do usuário, da disponibilidade da API de previsão do tempo, da existência de dados personalizados com base nas atividades do usuário e do funcionamento do sistema de recomendação. Quando essas condições estão atendidas, os dados são considerados válidos e o sistema pode oferecer conteúdo personalizado; caso contrário, a funcionalidade falha, sendo classificada como inválida devido à ausência de dados, falha na API, dados indisponíveis ou sistema fora do ar.
 
 | Condição de entrada | Classes válidas | Classe inválidas |
 | :---: | :---: | :---: |
@@ -144,9 +145,9 @@ A escolha das classes de equivalência para a história H6 foi baseada nas condi
 
  
 
- 
-
 # H9 (Atualização do Nível dos Rios)
+
+A tabela apresenta os requisitos para o funcionamento correto da funcionalidade "Atualização do Nível dos Rios", que depende da configuração adequada da localização do usuário, do funcionamento da API de monitoramento, da validade dos dados recebidos (nível do rio dentro dos limites aceitáveis) e da operação do sistema de atualização. Se todas essas condições forem atendidas, os dados são considerados válidos e o sistema opera normalmente; caso contrário, a funcionalidade é considerada inválida devido à ausência de localização, falha na API, dados inconsistentes ou erro no sistema.
 
 | Condição de entrada | Classes válidas | Classes inválidas |
 | :---: | :---: | :---: |
@@ -169,9 +170,9 @@ A escolha das classes de equivalência para a história H6 foi baseada nas condi
 
  
 
- 
-
 # H8 (Autenticação Multifator (MFA) )
+
+A tabela mostra os requisitos para que a funcionalidade de Autenticação Multifator (MFA) funcione corretamente, incluindo a inserção correta do código de verificação, validade do código dentro do tempo limite, existência de um meio de contato (e-mail ou telefone) cadastrado e funcionamento do sistema de envio. Quando essas condições são cumpridas, a autenticação ocorre com sucesso; caso contrário, falhas como código inválido, expirado, ausência de contato ou erro no envio tornam a autenticação inválida.
 
 | Condição de entrada | Classes válidas | Classes inválidas |
 | :---: | :---: | :---: |
@@ -192,11 +193,11 @@ A escolha das classes de equivalência para a história H6 foi baseada nas condi
 | Caso 4 | 1, 3, 6, 7 | Código: 854623, Sem e-mail ou telefone cadastrado | Erro: Dados de contato ausentes |
 | Caso 5 | 1, 3, 5, 8 | Código: 854623, Falha no envio do código (servidor offline) | Erro: Não foi possível enviar o código |
 
- 
-
- 
+  
 
 # H7 (Alerta de Tempestade)
+
+A tabela apresenta os requisitos para o funcionamento adequado da funcionalidade "Alerta de Tempestade", que depende da localização do usuário estar ativada e configurada, da disponibilidade da fonte de dados meteorológicos, da existência de previsão de tempestade para a região e do sistema de notificações estar habilitado. Quando todas essas condições são atendidas, o sistema emite alertas corretamente; caso contrário, a funcionalidade falha por localização desativada, fonte indisponível, ausência de previsão ou notificações inativas.
 
 | Condição de entrada | Classe válida | Classe inválida |
 | :---: | :---: | :---: |
