@@ -17,7 +17,7 @@ Tela de Cadastro com email, senha e confirmação de senha e autenticação de e
 <img src="https://github.com/IAGOx46/ESI-TP1/blob/30bc7a39bc9563d9bf4aa8e5085cef8188ae28c6/images/Tela_cadastro.jpg" width="300">
 
 ## Tela de informações sobre clima e nível dos rios
-
+Tela de clima e nível dos rios, mostram informações precisas e em tempo real. 
 
 <img src="" width="300">
 
