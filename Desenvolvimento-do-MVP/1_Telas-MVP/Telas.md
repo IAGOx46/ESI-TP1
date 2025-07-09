@@ -1,6 +1,7 @@
 # Telas MVP "Banzeiro"
+xxxxxxxxx
 ## Tela Inicial
-<img src="" width="300">
+<img src="https://github.com/IAGOx46/ESI-TP1/blob/4835247bd0d1ed679ed414dc91ccf8e63b2eaf97/images/Tela_Inicial.jpg" width="300">
 
 ## Tela de Login
 <img src="https://github.com/IAGOx46/ESI-TP1/blob/9d4ee3806c8cb8b632e4293ab52a770c50fd9f9e/images/Tela_login.jpg" width="300"> 
