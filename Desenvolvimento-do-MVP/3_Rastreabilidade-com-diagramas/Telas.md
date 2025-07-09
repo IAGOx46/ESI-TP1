@@ -16,7 +16,7 @@ Faz parte do container **Aplicativo Mobile**, que se comunica com o **Banco de D
 
 **Modelo C4 (Componente):**  
 Utiliza a tela `TelaCadastro`, onde o usuário insere seus dados. Os blocos do Thunkable processam os inputs e enviam para o Airtable.
-<center><img src="https://github.com/IAGOx46/ESI-TP1/blob/84b229c99fd748bafd7753cbc870bc3bfe1dc9fc/images/Tela_cadastro.jpg" width="300"></center>
+<p align="center"><img src="https://github.com/IAGOx46/ESI-TP1/blob/84b229c99fd748bafd7753cbc870bc3bfe1dc9fc/images/Tela_cadastro.jpg" width="300"></p>
 
 ---
 
