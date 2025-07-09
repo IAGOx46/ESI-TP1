@@ -1,4 +1,4 @@
-### **HISTÓRIA DE USUÁRIO:** H1 - Como novo usuário do aplicativo, quero poder criar uma conta para que minhas preferências de configuração sejam salvas e recuperadas automaticamente em futuros acessos
-### **IMPLEMENTAÇÃO NO MVP:** Fluxo de autenticação em Tela de Cadastro/Login para acesso ao aplicativo, que permite inserir email, senha, opção de manter conectado ("salvar acesso"), validações básicas nos formulários ("campos obrigatórios"), mensagens de feedback ("Cadastro realizado", "Erro no login"). Com informações armazenadas no Firebase.
+### **História de Usuário:** H1 - Como novo usuário do aplicativo, quero poder criar uma conta para que minhas preferências de configuração sejam salvas e recuperadas automaticamente em futuros acessos
+### **Implementação no MVP:** Fluxo de autenticação em Tela de Cadastro/Login para acesso ao aplicativo, que permite inserir email, senha, opção de manter conectado ("salvar acesso"), validações básicas nos formulários ("campos obrigatórios"), mensagens de feedback ("Cadastro realizado", "Erro no login"). Com informações armazenadas no Firebase.
 <img src="https://github.com/IAGOx46/ESI-TP1/blob/84b229c99fd748bafd7753cbc870bc3bfe1dc9fc/images/Tela_cadastro.jpg" width="300">                <img src="https://github.com/IAGOx46/ESI-TP1/blob/bb042aed79ea2a82660425982ae963a30bf8a964/images/Tela_login.jpg" width="300">
 
