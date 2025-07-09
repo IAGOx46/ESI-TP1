@@ -35,6 +35,8 @@ Faz parte do container **Aplicativo Mobile**, que consulta o **Banco de Dados (A
 **Modelo C4 (Componente):**  
 Utiliza a tela `TelaLogin`, que compara os dados digitados com os dados do banco usando blocos de verificação do Thunkable.
 
+ <p align="center"><img src="https://github.com/IAGOx46/ESI-TP1/blob/bb042aed79ea2a82660425982ae963a30bf8a964/images/Tela_login.jpg" width="300"></p>
+
 ---
 
 ## Funcionalidade: Visualizar Alertas Meteorológicos
