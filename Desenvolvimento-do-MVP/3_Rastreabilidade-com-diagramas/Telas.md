@@ -53,6 +53,9 @@ Faz parte do container **Aplicativo Mobile**, que se conecta ao **Banco de Dados
 **Modelo C4 (Componente):**  
 Utiliza a tela `TelaAvisos`, que usa o componente `Data Viewer List` vinculado à tabela "Alertas Meteorológicos".
 
+<p align="center"><img src="https://github.com/IAGOx46/ESI-TP1/blob/dac184976c805e51fafdf8ab36fc7ab7e6afedaa/images/Tela_quadro_de_avisos.jpg" width="300"></p>
+
+
 ---
 
 ## Funcionalidade: Visualizar Dados Climáticos e Nível do Rio
